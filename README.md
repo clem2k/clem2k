@@ -2,7 +2,8 @@
 
 **clem2k/clem2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clem2k&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clem2k)(https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=clem2k)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 Here are some ideas to get you started:
 
