@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 <a style="color:orange;" href="https://www.instagram.com/clem2k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clem2k&theme=darcula)](https://git.io/streak-stats)
