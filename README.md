@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![MasterHead](https://github.com/clem2k/clem2k/blob/cf71c88d8c11cd571d57e64e4daa4c637a0d5c4e/banner.png)](https://github.com/clem2k/)
+
 <!--
 **clem2k/clem2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clem2k&show_icons=true&theme=radical)
