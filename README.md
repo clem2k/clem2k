@@ -4,10 +4,10 @@
 ![](https://komarev.com/ghpvc/?username=clem2k&color=00FF00)
 
 
-
+<!-- 
 <!--
 **clem2k/clem2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clem2k&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clem2k&show_icons=true&theme=radical&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=clem2k)](https://github.com/ryo-ma/github-profile-trophy)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clem2k)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -55,4 +55,4 @@ Social :
 </p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clem2k&theme=darcula)](https://git.io/streak-stats)
 -->
-
+ -->
