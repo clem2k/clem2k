@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clem2k&show_icons=true&theme=radical&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=clem2k)](https://github.com/ryo-ma/github-profile-trophy)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clem2k)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clem2k)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # Stuff I work with
 Techs :  
