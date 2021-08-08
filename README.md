@@ -55,15 +55,4 @@ Social :
 - 🔭 I’m currently working on so many things but mainly arduino/raspberry and python projects
 - 🌱 I’m currently learning NLP
 - 💬 Ask me about myself
-- 📫 How to reach me: twitter is a good way @clem2k
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a style="color:blue;" href="https://twitter.com/clem2k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a style="color:white;" href="https://www.linkedin.com/in/clement-canivet/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a style="color:orange;" href="https://www.instagram.com/clem2k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clem2k&theme=darcula)](https://git.io/streak-stats)
-
-
+- 📫 How to reach me : twitter is a good way @clem2k
