@@ -31,6 +31,8 @@ ML/DL :
 
 Databses :  
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/DB2-%23007ACC.svg?style=for-the-badge&logoColor=white&logo=ibm"/>
+
 
 OS :  
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -45,14 +47,14 @@ DIY :
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 
-Social :  
+# Social  
 <a href="https://www.instagram.com/clem2k/" target="_blank">
 <img alt="Instagram" src="https://img.shields.io/badge/clem2k-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/clem2k" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/clem2k-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/clement-canivet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-
+# Misc  
 - 🔭 I’m currently working on so many things but mainly arduino/raspberry and python projects
 - 🌱 I’m currently learning NLP
 - 💬 Ask me about myself
-- 📫 How to reach me : twitter is a good way @clem2k
+- 📫 How to reach me : twitter is a good way ;-) 
