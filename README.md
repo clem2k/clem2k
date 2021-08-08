@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=clem2k)](https://github.com/ryo-ma/github-profile-trophy)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clem2k)](https://github.com/anuraghazra/github-readme-stats)
 
-# Stuff i work with
+# Stuff I work with
 Techs :  
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
