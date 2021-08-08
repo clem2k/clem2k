@@ -3,15 +3,12 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=clem2k&color=00FF00)
 
-
-<!-- 
-<!--
 **clem2k/clem2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clem2k&show_icons=true&theme=radical&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=clem2k)](https://github.com/ryo-ma/github-profile-trophy)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clem2k)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+# Stuf i've learnt
 Techs : 
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
@@ -38,14 +35,11 @@ Social :
 <img alt="Instagram" src="https://img.shields.io/badge/clem2k-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a><a href="https://twitter.com/clem2k" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/clem2k-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a><a href="https://www.linkedin.com/in/clement-canivet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+- 🔭 I’m currently working on so many things but mainly arduino/raspberry and python projects
+- 🌱 I’m currently learning NLP
+- 💬 Ask me about myself
+- 📫 How to reach me: twitter is a good way @clem2k
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,5 +48,5 @@ Social :
 <a style="color:orange;" href="https://www.instagram.com/clem2k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clem2k&theme=darcula)](https://git.io/streak-stats)
--->
- -->
+
+
