@@ -58,7 +58,7 @@ DIY :
 <a href="https://www.linkedin.com/in/clement-canivet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 # Misc  
-- 🔭 I’m currently working on so many things but mainly AI, arduino/raspberry and python projects
+- 🔭 I’m currently working on so many things but mainly AI oriented, arduino/raspberry and python projects
 - 🌱 I’m currently learning NLP and many things with AI <3 
 - 💬 Ask me about myself
-- 📫 How to reach me : twitter is a good way ;-) 
+- 📫 How to reach me : X/twitter is a good way ;-) 
