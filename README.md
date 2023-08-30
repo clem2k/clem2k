@@ -61,4 +61,7 @@ DIY :
 - 🔭 I’m currently working on so many things but mainly AI oriented, arduino/raspberry and python projects
 - 🌱 I’m currently learning NLP and many things with AI <3 
 - 💬 Ask me about myself
-- 📫 How to reach me : X/twitter is a good way ;-) 
+- 📫 How to reach me : X/twitter is a good way ;-)
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/clem2k)
+
