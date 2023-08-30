@@ -63,5 +63,4 @@ DIY :
 - 💬 Ask me about myself
 - 📫 How to reach me : X/twitter is a good way ;-)
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/clem2k)
 
