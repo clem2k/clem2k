@@ -64,3 +64,4 @@ DIY :
 - 📫 How to reach me : X/twitter is a good way ;-)
 
 
+<img src="https://github.com/clem2k/clem2k/blob/9409f7452f0a0974a45c0217c74f7ba0e8b610e4/494175995_10232984560810715_2913800656301368755_n.jpg" alt="Fun" height="200px" width="auto"/>
