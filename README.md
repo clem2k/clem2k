@@ -54,14 +54,13 @@ DIY :
 # Social  
 <a href="https://www.instagram.com/clem2k/" target="_blank">
 <img alt="Instagram" src="https://img.shields.io/badge/clem2k-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/clem2k" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/clem2k-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/clement-canivet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 # Misc  
 - 🔭 I’m currently working on so many things but mainly AI oriented, arduino/raspberry and python projects
 - 🌱 I’m currently learning many things with and about AI <3 
 - 💬 Ask me about myself
-- 📫 How to reach me : github is a good way ;-) not on X anymore
+- 📫 How to reach me : Insta or github is a good way ;-) not on X anymore
 
 
 <img src="https://github.com/clem2k/clem2k/blob/9409f7452f0a0974a45c0217c74f7ba0e8b610e4/494175995_10232984560810715_2913800656301368755_n.jpg" alt="Fun" height="200px" width="auto"/>
