@@ -9,9 +9,9 @@
 
 # Stuff I work with
 Techs :  
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
@@ -35,7 +35,7 @@ ML/DL :
 
 Databses :  
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/DB2-%23007ACC.svg?style=for-the-badge&logoColor=white&logo=ibm"/>
+<img alt="DB2" src="https://img.shields.io/badge/DB2-%23007ACC.svg?style=for-the-badge&logoColor=white&logo=ibm"/>
 
 
 OS :  
@@ -59,9 +59,9 @@ DIY :
 
 # Misc  
 - 🔭 I’m currently working on so many things but mainly AI oriented, arduino/raspberry and python projects
-- 🌱 I’m currently learning NLP and many things with AI <3 
+- 🌱 I’m currently learning many things with and about AI <3 
 - 💬 Ask me about myself
-- 📫 How to reach me : X/twitter is a good way ;-)
+- 📫 How to reach me : github is a good way ;-) not on X anymore
 
 
 <img src="https://github.com/clem2k/clem2k/blob/9409f7452f0a0974a45c0217c74f7ba0e8b610e4/494175995_10232984560810715_2913800656301368755_n.jpg" alt="Fun" height="200px" width="auto"/>
