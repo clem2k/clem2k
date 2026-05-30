@@ -4,9 +4,6 @@
 ![](https://komarev.com/ghpvc/?username=clem2k&color=00FF00)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=clem2k&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clem2k)](https://github.com/anuraghazra/github-readme-stats) -->
-
 # Stuff I work with
 Techs :  
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
