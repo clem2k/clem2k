@@ -1,63 +1,157 @@
-[![MasterHead](https://github.com/clem2k/clem2k/blob/328e7bd4a8fb2798fe786807c9fc65858d4dd5c2/banner.png)](https://github.com/clem2k/)
+<!-- ===================== HEADER ===================== -->
+<img
+  alt="A fun personal photo of Clem"
+  src=""
+  height="220"
+  width="auto"
+/>
 
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=clem2k&color=00FF00)
+<a href="#about-me">
+  <img
+    alt="Banner — Hi, I'm Clem, a full-stack developer focused on back-end"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20Clem%20%F0%9F%91%8B&fontSize=48&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20Back-end%20at%20heart%20%E2%80%A2%20AI%20enthusiast&descAlignY=58&descSize=18&fontColor=ffffff"
+    width="100%"
+  />
+</a>
 
+<!-- ===================== INTRO ===================== -->
+<div align="center">
 
-# Stuff I work with
-Techs :  
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+[![Typing SVG animation summarising Clem's skills](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Back-end+engineer+%26+full-stack+developer;Python+%E2%80%A2+C%23+%E2%80%A2+TypeScript+%E2%80%A2+Shell;Databases%2C+data+mining+%26+AI+lover;Always+building+something+at+home+%F0%9F%8F%A0)](https://github.com/clem2k)
 
-Frameworks & Libraries :  
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img alt="Profile views counter" src="https://komarev.com/ghpvc/?username=clem2k&label=Profile%20views&color=36BCF7&style=flat" />
 
-ML/DL :  
-<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
 
-Databses :  
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="DB2" src="https://img.shields.io/badge/DB2-%23007ACC.svg?style=for-the-badge&logoColor=white&logo=ibm"/>
+<!-- ===================== ABOUT ME ===================== -->
+## <a id="about-me"></a>🧑‍💻 About me
 
+```yaml
+name:      Clem
+role:      Full-stack developer (back-end first)
+focus:     APIs, data, automation & AI
+loves:     using and building AI models, data mining, clean databases
+currently: home automation with self-developed Home Assistant components
+learning:  everything around AI model development ❤️
+motto:     "Make it work, make it solid, make it smart."
+```
 
-OS :  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- 🛠️ I build **robust back-ends** and the data layer that powers them.
+- 🧠 I love **AI** — from using existing models to **training my own**.
+- 🗄️ Strong with **databases (RDBMS)** and **data mining**.
+- 🏠 Tinkerer at heart: home automation, Raspberry Pi & Arduino projects.
+- 💬 Ask me about myself — Instagram or GitHub is the best way to reach me. (Not on X anymore.)
 
-IDE :  
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+---
 
-DIY :  
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+<!-- ===================== TECH STACK ===================== -->
+## 🧰 Tech stack
 
-# Social  
-<a href="https://www.instagram.com/clem2k/" target="_blank">
-<img alt="Instagram" src="https://img.shields.io/badge/clem2k-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/clement-canivet/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+### 💪 Core languages
+<p>
+  <img alt="Python — primary language" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="C# — primary language" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Shell scripting" src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-# Misc  
-- 🔭 I’m currently working on so many things but mainly AI oriented, arduino/raspberry and python projects
-- 🌱 I’m currently learning many things with and about AI <3 
-- 💬 Ask me about myself
-- 📫 How to reach me : Insta or github is a good way ;-) not on X anymore
+### 🤖 AI · ML · Data
+<p>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
 
+### 🗄️ Databases
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="IBM DB2" src="https://img.shields.io/badge/IBM%20DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
 
-<img src="https://github.com/clem2k/clem2k/blob/9409f7452f0a0974a45c0217c74f7ba0e8b610e4/494175995_10232984560810715_2913800656301368755_n.jpg" alt="Fun" height="200px" width="auto"/>
+### 🌐 Frameworks & libraries
+<p>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</p>
+
+### ⚙️ Tools, OS & tinkering
+<p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+</p>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub in numbers
+
+<div align="center">
+
+<img
+  alt="Clem's GitHub statistics — commits, stars, pull requests and issues"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=clem2k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+/>
+<img
+  alt="Clem's most used programming languages"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clem2k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
+<br />
+
+<img
+  alt="Clem's current GitHub contribution streak"
+  src="https://streak-stats.demolab.com?user=clem2k&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+<!-- ===================== SOCIAL ===================== -->
+## 🤝 Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/in/clement-canivet/" target="_blank" rel="noopener noreferrer">
+    <img alt="Connect with Clem on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/clem2k/" target="_blank" rel="noopener noreferrer">
+    <img alt="Follow Clem on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/clem2k" target="_blank" rel="noopener noreferrer">
+    <img alt="Clem's GitHub profile" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ===================== FUN ===================== -->
+<div align="center">
+
+### ✨ A bit of fun
+
+<img
+  alt="Clem2k"
+  src="https://github.com/clem2k/clem2k/blob/9409f7452f0a0974a45c0217c74f7ba0e8b610e4/494175995_10232984560810715_2913800656301368755_n.jpg"
+  height="220"
+  width="auto"
+/>
+
+<sub>Thanks for stopping by — let's build something great together! 🚀</sub>
+
+</div>
