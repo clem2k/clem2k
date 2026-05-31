@@ -2,7 +2,7 @@
 <img
   alt="Banner with neon like look"
   src="https://github.com/clem2k/clem2k/blob/9d38d9a1d1a54b32b6d19ff91d9cb3b34f891efa/bruce.jpg"
-  height="220"
+  height="400"
   width="100%"
 />
 
