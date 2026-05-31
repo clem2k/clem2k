@@ -9,7 +9,7 @@
 <a href="#about-me">
   <img
     alt="Banner — Hi, I'm Clem, a full-stack developer focused on back-end"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20Clem%20%F0%9F%91%8B&fontSize=48&fontAlignY=38&desc=Full-stack%20developer%20%E2%80%A2%20Back-end%20at%20heart%20%E2%80%A2%20AI%20enthusiast&descAlignY=58&descSize=18&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hi%2C%20I'm%20Clem2k%20%F0%9F%91%8B&fontSize=48&fontAlignY=38&desc=Full-snack%20developer%20%E2%80%A2%20Back-end%20at%20heart%20%E2%80%A2%20AI%20enthusiast&descAlignY=58&descSize=18&fontColor=ffffff"
     width="100%"
   />
 </a>
@@ -27,10 +27,10 @@
 ## <a id="about-me"></a>🧑‍💻 About me
 
 ```yaml
-name:      Clem
+name:      Clément aka Clem2k
 role:      Full-stack developer (back-end first)
-focus:     APIs, data, automation & AI
-loves:     using and building AI models, data mining, clean databases
+focus:     Python, APIs, data, automation & AI
+loves:     using and building AI models, data mining, tux
 currently: home automation with self-developed Home Assistant components
 learning:  everything around AI model development ❤️
 motto:     "Make it work, make it solid, make it smart."
@@ -38,7 +38,7 @@ motto:     "Make it work, make it solid, make it smart."
 
 - 🛠️ I build **robust back-ends** and the data layer that powers them.
 - 🧠 I love **AI** — from using existing models to **training my own**.
-- 🗄️ Strong with **databases (RDBMS)** and **data mining**.
+- 🗄️ Strong with problem solving.
 - 🏠 Tinkerer at heart: home automation, Raspberry Pi & Arduino projects.
 - 💬 Ask me about myself — Instagram or GitHub is the best way to reach me. (Not on X anymore.)
 
@@ -101,18 +101,7 @@ motto:     "Make it work, make it solid, make it smart."
 
 <div align="center">
 
-<img
-  alt="Clem's GitHub statistics — commits, stars, pull requests and issues"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=clem2k&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-/>
-<img
-  alt="Clem's most used programming languages"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clem2k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
 
-<br />
 
 <img
   alt="Clem's current GitHub contribution streak"
@@ -143,7 +132,7 @@ motto:     "Make it work, make it solid, make it smart."
 <!-- ===================== FUN ===================== -->
 <div align="center">
 
-### ✨ A bit of fun
+### ✨ A bit of me
 
 <img
   alt="Clem2k"
